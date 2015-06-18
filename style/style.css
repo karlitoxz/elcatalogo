@@ -13,7 +13,8 @@
   font-style: normal;
 }
 body {
-  background: #e6e6e7;
+  background: #e6e6e6;
+  font-family: 'phinster_finenormal';
 }
 header {
   height: 114px;
@@ -32,7 +33,6 @@ header .logo img {
 header .catalogo {
   position: absolute;
   margin: 20px 0 0 150px;
-  font-family: 'phinster_finenormal';
 }
 header .buscador {
   background-color: #dadada;
@@ -72,4 +72,30 @@ header .social {
   position: absolute;
   margin: 34px 0 0 90%;
   width: 116px;
+}
+.separcion {
+  height: 20px;
+}
+nav {
+  background-image: url("../img/Fondo_Nav.png");
+  background-size: 100% 100%;
+  text-align: center;
+  height: 35px;
+  line-height: 25px;
+font-family
+}
+nav .menu {
+  margin: 0;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+nav .menu li {
+  display: inline-block;
+}
+nav .menu li a {
+  text-decoration: none;
+  display: inline-block;
+  color: #fff;
+  padding: 0.5em;
+  margin: 0 3.5em;
 }

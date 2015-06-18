@@ -22,7 +22,18 @@
 
 <div class="separcion"></div>
 
-<nav></nav>
+<nav>
+
+	<ul class="menu">
+		<li><a href="">Compañía</a></li>
+		<li><a href="">Categorías</a></li>
+		<li><a href="">Diseña</a></li>
+		<li><a href="">Ubica</a></li>
+		<li><a href="">Protege</a></li>
+		<li><a href="">Contactenos</a></li>
+	</ul>
+
+</nav>
 
 <secion>
 	<article></article>
