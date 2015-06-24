@@ -35,14 +35,28 @@
 
 </nav>
 
-<secion>
+<section>
+		<article>
+			<div class="categorias">
+				Categorias
+			</div>
+			<div class="lista">
+				<ul class="ulista">
+					<li><div class="img01"><div class="imgt01">MODA</div></div></li>
+					<li><div class="img02"><div class="imgt02">FERRETERÍA</div></div></li>
+					<li><div class="img03"><div class="imgt03">TECNOLOGIA</div></div></li>
+					<li><div class="img04"><div class="imgt04">VIAJES</div></div></li>
+					<li><div class="img05"><div class="imgt05">SALUD</div></div></li>
+				</ul>
+			</div>
+		</article>
+		
 	<article></article>
 	<article></article>
 	<article></article>
 	<article></article>
 	<article></article>
-	<article></article>
-</secion>
+</section>
 
 <footer></footer>
 
