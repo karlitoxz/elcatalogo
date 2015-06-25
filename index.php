@@ -36,7 +36,7 @@
 </nav>
 
 <section>
-		<article>
+		<article class="articlecat">
 			<div class="categorias">
 				Categorias
 			</div>
@@ -51,8 +51,36 @@
 			</div>
 		</article>
 		
-	<article></article>
-	<article></article>
+	<article class="divofertas">
+			<div class="ofertas">
+				Ofertas
+			</div>
+			<div class="ulofertas">
+				<ul class="listaoferta">
+					<li><img src="img/ofertas/descuentos.png" alt="" width="87%"/></li>
+					<li><img src="img/ofertas/ofertas.png" alt="" width="87%"/></li>
+					<li><img src="img/ofertas/lanzamientos.png" alt="" width="87%"/></li>
+					<li><img src="img/ofertas/tendencias.png" alt="" width="87%"/></li>
+				</ul>
+			</div>
+	</article>
+	
+	<article>
+		<div class="destacado">
+			Lo más destacado
+		</div>
+		<div class="imgdes">
+			<ul class="uldes">
+				<li><div class="condes"><div class="condeimg"></div><div class="condetxt"></div></div></li>
+				<li><div class="condes"><div class="condeimg"></div><div class="condetxt"></div></div></li>
+				<li><div class="condes"><div class="condeimg"></div><div class="condetxt"></div></div></li>
+				<li><div class="condes"><div class="condeimg"></div><div class="condetxt"></div></div></li>
+				<li><div class="condes"><div class="condeimg"></div><div class="condetxt"></div></div></li>
+			</ul>
+		</div>
+	</article>
+	
+	
 	<article></article>
 	<article></article>
 	<article></article>
