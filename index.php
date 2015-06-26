@@ -65,28 +65,59 @@
 			</div>
 	</article>
 	
-	<article>
+	<article class="divdestacado">
 		<div class="destacado">
 			Lo más destacado
 		</div>
 		<div class="imgdes">
 			<ul class="uldes">
-				<li><div class="condes"><div class="condeimg"></div><div class="condetxt"></div></div></li>
-				<li><div class="condes"><div class="condeimg"></div><div class="condetxt"></div></div></li>
-				<li><div class="condes"><div class="condeimg"></div><div class="condetxt"></div></div></li>
-				<li><div class="condes"><div class="condeimg"></div><div class="condetxt"></div></div></li>
-				<li><div class="condes"><div class="condeimg"></div><div class="condetxt"></div></div></li>
+				<li><div class="condes"><div class="condeimg"><img src="img/destacado/destacado01.png" alt="" height="100%"/></div><div class="condetxt">Titulo<br /><spam>Subtitulo</spam></div></div></li>
+				<li><div class="condes"><div class="condeimg"><img src="img/destacado/destacado02.png" alt="" height="100%"/></div><div class="condetxt">Titulo<br /><spam>Subtitulo</spam></div></div></li>
+				<li><div class="condes"><div class="condeimg"><img src="img/destacado/destacado03.png" alt="" height="100%"/></div><div class="condetxt">Titulo<br /><spam>Subtitulo</spam></div></div></li>
+				<li><div class="condes"><div class="condeimg"><img src="img/destacado/destacado04.png" alt="" height="100%"/></div><div class="condetxt">Titulo<br /><spam>Subtitulo</spam></div></div></li>
+				<li><div class="condes"><div class="condeimg"><img src="img/destacado/destacado05.png" alt="" height="100%"/></div><div class="condetxt">Titulo<br /><spam>Subtitulo</spam></div></div></li>
 			</ul>
 		</div>
 	</article>
 	
 	
-	<article></article>
-	<article></article>
-	<article></article>
+	<article class="info">
+		<div class="acerca">
+			Acerca de:
+				<ul class="ulacerca">
+					<li>Elcatalogo</li>
+					<li>Mapa del Sitio</li>
+					<li>Tendencias</li>
+					<li>Trabaje con Nosotros</li>
+				</ul>
+		</div>
+		<div class="ayuda">
+			Ayuda
+				<ul class="ulayuda">
+					<li>Publicar</li>
+					<li>Contactar</li>
+					<li>Centro de Seguridad</li>
+					<li>Mapa del sitio</li>
+				</ul>
+		</div>
+		<div class="social">
+			Redes Sociales
+				<ul class="ulsocial">
+					<li>Twitter</li>
+					<li>Facebook</li>
+					<li>Google+</li>
+					<li>Youtube</li>
+				</ul>
+		</div>
+	
+	</article>
+	
 </section>
 
-<footer></footer>
+<footer>
+	Términos y condiciones <span> | </span>Política de Privacidad<span> | </span>Ayuda <br/>
+	Copyright © 2014 - 2015 - elcatalogo S.A.S.   Portal de Catálogos en internet 
+</footer>
 
 </body>
 </html>
