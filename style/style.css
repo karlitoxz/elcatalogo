@@ -285,6 +285,110 @@ section .info .social {
   width: 32%;
   margin: 0 0 0 67%;
 }
+section .arcom01 {
+  background-color: #fff;
+}
+section .arcom01 figure {
+  margin: 0;
+}
+section .arcom02 {
+  padding: 1em;
+  position: relative;
+  background-color: #fff;
+}
+section .arcom02 .arcom02text {
+  padding: 1em;
+}
+section .arcom02 h5 {
+  color: #e55a24;
+  margin: 0;
+}
+section .arcom02 h3 {
+  color: #333;
+  margin: 0;
+}
+section .arcom02 p {
+  text-align: justify;
+  color: #808080;
+}
+section .arcom03 {
+  position: relative;
+  background-color: #fff;
+  height: 27.5em;
+}
+section .arcom03 .fondo {
+  position: absolute;
+}
+section .arcom03 .titulo {
+  position: absolute;
+  z-index: 1;
+  width: 98%;
+  height: 4em;
+  font-size: 2em;
+  background: rgba(0,0,0,0.5);
+  line-height: 4em;
+  padding-left: 4em;
+  color: #fff;
+}
+section .arcom04 {
+  padding: 1em;
+  position: relative;
+  background-color: #fff;
+}
+section .arcom04 .arcom04text {
+  padding: 1em;
+}
+section .arcom04 h5 {
+  color: #39a94a;
+  margin: 0;
+}
+section .arcom04 h3 {
+  color: #333;
+  margin: 0;
+}
+section .arcom04 p {
+  text-align: justify;
+  color: #808080;
+}
+section .arcom05 {
+  position: relative;
+  background-color: #fff;
+  height: 27.5em;
+}
+section .arcom05 .fondo {
+  position: absolute;
+}
+section .arcom05 .titulo {
+  position: absolute;
+  z-index: 1;
+  width: 98%;
+  height: 4em;
+  font-size: 2em;
+  background: rgba(0,0,0,0.5);
+  line-height: 4em;
+  padding-left: 4em;
+  color: #fff;
+}
+section .arcom06 {
+  padding: 1em;
+  position: relative;
+  background-color: #fff;
+}
+section .arcom06 .arcom06text {
+  padding: 1em;
+}
+section .arcom06 h5 {
+  color: #662d85;
+  margin: 0;
+}
+section .arcom06 h3 {
+  color: #333;
+  margin: 0;
+}
+section .arcom06 p {
+  text-align: justify;
+  color: #808080;
+}
 footer {
   text-align: center;
   padding: 1em;

@@ -10,7 +10,7 @@
 
 	<header>
 		<div class="logo"><img src="img/elcatalogo_logo.png" alt="El_Catalogo_logo"></div>
-		<div class="catalogo"><h1>ELCÁTALOGO.COM.CO</h1></div>
+		<div class="catalogo"><h1>ELC&Aacute;TALOGO.COM.CO</h1></div>
 		<div class="buscador"><input type="text" class="textbox" size="30" placeholder="Buscar"></div>		
 		<div class="subir"><img src="img/BtnSubir.png" alt=""></div>
 		<div class="social">
@@ -25,9 +25,9 @@
 <nav>
 
 	<ul class="menu">
-		<li><a href="">Compañía</a></li>
-		<li><a href="">Categorías</a></li>
-		<li><a href="">Diseña</a></li>
+		<li><a href="">Compa&ntilde;&iacute;a</a></li>
+		<li><a href="">Categor&iacute;as</a></li>
+		<li><a href="">Dise&ntilde;a</a></li>
 		<li><a href="">Ubica</a></li>
 		<li><a href="">Protege</a></li>
 		<li><a href="">Contactenos</a></li>
@@ -43,7 +43,7 @@
 			<div class="lista">
 				<ul class="ulista">
 					<li><div class="img01"><div class="imgt01">MODA</div></div></li>
-					<li><div class="img02"><div class="imgt02">FERRETERÍA</div></div></li>
+					<li><div class="img02"><div class="imgt02">FERRETER&Iacute;A</div></div></li>
 					<li><div class="img03"><div class="imgt03">TECNOLOGIA</div></div></li>
 					<li><div class="img04"><div class="imgt04">VIAJES</div></div></li>
 					<li><div class="img05"><div class="imgt05">SALUD</div></div></li>
@@ -67,7 +67,7 @@
 	
 	<article class="divdestacado">
 		<div class="destacado">
-			Lo más destacado
+			Lo m&aacute;s destacado
 		</div>
 		<div class="imgdes">
 			<ul class="uldes">
@@ -115,8 +115,8 @@
 </section>
 
 <footer>
-	Términos y condiciones <span> | </span>Política de Privacidad<span> | </span>Ayuda <br/>
-	Copyright © 2014 - 2015 - elcatalogo S.A.S.   Portal de Catálogos en internet 
+	Términos y condiciones <span> | </span>Pol&iacute;tica de Privacidad<span> | </span>Ayuda <br/>
+	Copyright © 2014 - 2015 - elcatalogo S.A.S.   Portal de Cat&aacute;logos en internet 
 </footer>
 
 </body>
