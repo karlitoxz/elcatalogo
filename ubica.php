@@ -30,45 +30,37 @@
 		<li><a href="disena.php">Dise&ntilde;a</a></li>
 		<li><a href="ubica.php">Ubica</a></li>
 		<li><a href="">Protege</a></li>
-		<li><a href="">Contactenos</a></li>
+		<li><a href="">Cont&aacute;ctenos</a></li>
 	</ul>
 
 </nav>
 
 <section>
-		<article class="articlecat">
-			<div class="categorias">
-				Categorias
-			</div>
-			<div class="lista">
-				<ul class="ulista">
-					<li><div class="img01"><div class="imgt01">MODA</div></div></li>
-					<li><div class="img02"><div class="imgt02">FERRETER&Iacute;A</div></div></li>
-					<li><div class="img03"><div class="imgt03">TECNOLOGIA</div></div></li>
-					<li><div class="img04"><div class="imgt04">VIAJES</div></div></li>
-					<li><div class="img05"><div class="imgt05">SALUD</div></div></li>
-				</ul>
-			</div>
-		</article>
-		
-	<article class="divofertas">
-			<div class="ofertas">
-				Ofertas
-			</div>
-			<div class="ulofertas">
-				<ul class="listaoferta">
-					<li><img src="img/ofertas/descuentos.png" alt="" width="87%"/></li>
-					<li><img src="img/ofertas/ofertas.png" alt="" width="87%"/></li>
-					<li><img src="img/ofertas/lanzamientos.png" alt="" width="87%"/></li>
-					<li><img src="img/ofertas/tendencias.png" alt="" width="87%"/></li>
-				</ul>
-			</div>
+
+	<article class="ubicont">
+		 <div class="ubiimg">
+			<img src="img/ubica/ubica.png" alt="" width="50%"/>
+		 </div>
+		 <div class="ubitext">
+			<h3>Ubica t&uacute; cat&aacute;logo m&aacute;s cercano</h3>
+				<p>Encuentra tus cat&aacute;logos en el buscador de google maps o a través de 
+						nuestro listado de categorías. </p>
+		</div>
 	</article>
 	
-	<article class="divdestacado">
-		<div class="destacado">
-			Lo m&aacute;s destacado
+	<article>
+		<div class="ubimap">
+			<center><img src="img/ubica/mapa.png" alt="" width="50%"/></center>
+
 		</div>
+	</article>
+	
+	<article class="ubiciu">
+		<p>Catálogos en Bogotá</p>
+	</article>
+	
+		<article class="ciuubi">
+
 		<div class="imgdes">
 			<ul class="uldes">
 				<li><div class="condes"><div class="condeimg"><img src="img/destacado/destacado01.png" alt="" height="100%"/></div><div class="condetxt">Titulo<br /><spam>Subtitulo</spam></div></div></li>
@@ -80,39 +72,8 @@
 		</div>
 	</article>
 	
-	
-	<article class="info">
-		<div class="acerca">
-			Acerca de:
-				<ul class="ulacerca">
-					<li>Elcatalogo</li>
-					<li>Mapa del Sitio</li>
-					<li>Tendencias</li>
-					<li>Trabaje con Nosotros</li>
-				</ul>
-		</div>
-		<div class="ayuda">
-			Ayuda
-				<ul class="ulayuda">
-					<li>Publicar</li>
-					<li>Contactar</li>
-					<li>Centro de Seguridad</li>
-					<li>Mapa del sitio</li>
-				</ul>
-		</div>
-		<div class="social">
-			Redes Sociales
-				<ul class="ulsocial">
-					<li>Twitter</li>
-					<li>Facebook</li>
-					<li>Google+</li>
-					<li>Youtube</li>
-				</ul>
-		</div>
-	
-	</article>
-	
 </section>
+	
 
 <footer>
 	Términos y condiciones <span> | </span>Pol&iacute;tica de Privacidad<span> | </span>Ayuda <br/>
