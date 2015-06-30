@@ -25,8 +25,8 @@
 <nav>
 
 	<ul class="menu">
-		<li><a href="">Compa&ntilde;&iacute;a</a></li>
-		<li><a href="">Categor&iacute;as</a></li>
+		<li><a href="compania.php">Compa&ntilde;&iacute;a</a></li>
+		<li><a href="categorias.php">Categor&iacute;as</a></li>
 		<li><a href="">Dise&ntilde;a</a></li>
 		<li><a href="">Ubica</a></li>
 		<li><a href="">Protege</a></li>
