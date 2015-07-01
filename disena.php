@@ -27,9 +27,9 @@
 	<ul class="menu">
 		<li><a href="compania.php">Compa&ntilde;&iacute;a</a></li>
 		<li><a href="categorias.php">Categor&iacute;as</a></li>
-		<li><a href="disena.php">Dise&ntilde;a</a></li>
+		<li><a href="disena.php" class="active">Dise&ntilde;a</a></li>
 		<li><a href="ubica.php">Ubica</a></li>
-		<li><a href="">Protege</a></li>
+		<li><a href="protege.php">Protege</a></li>
 		<li><a href="">Contactenos</a></li>
 	</ul>
 

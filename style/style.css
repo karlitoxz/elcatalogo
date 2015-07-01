@@ -102,6 +102,9 @@ nav .menu li a {
   padding: 0.5em;
   margin: 0 3.5em;
 }
+nav .active {
+  background-color: #eb871e;
+}
 section article .categorias {
   color: #000;
   padding: 0.5em;
@@ -487,6 +490,43 @@ section .ubiciu p {
 section .ciuubi {
   padding: 0.5em;
   background-color: #fff;
+}
+section .profig01 {
+  margin: 0;
+}
+section .imgpro {
+  margin: 0;
+  background-color: #fff;
+}
+section .pro01 {
+  padding: 1em;
+  background-color: #fff;
+}
+section .pro01 h3 {
+  margin: 0;
+  color: #4d4d4d;
+}
+section .pro01 p {
+  color: #808080;
+}
+section .pro02 {
+  padding: 1em;
+}
+section .pro03 {
+  background-color: #fff;
+  padding: 1em;
+}
+section .pro03 h3 {
+  color: #4d4d4d;
+}
+section .pro03 h4 {
+  color: #808080;
+}
+section .pro03 p {
+  color: #808080;
+}
+section .pro03 span {
+  font-size: 0.5em;
 }
 .space {
   position: absolute;
